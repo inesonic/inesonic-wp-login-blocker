@@ -7,3 +7,7 @@ WordPress login and registration forms.  Users attempting to access
 Users attempting to register via "/wp-login" will be redirected to "/pricing".
 
 This plugin will still allow logouts through "/wp-login".
+
+You may also be interested in the `Inesonic Force Login URL plugin
+<https://github.com/tuxidriver/inesonic-force-login-url>`.  Both plugins are
+used by `Inesonic <https://inesonic.com>` infrastructure.
